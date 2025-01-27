@@ -1,1 +1,2 @@
-# ee_411_final_project
+# EE-411 Final Project
+This repository contains the code written for the final project in EE-411. The code is divided up by the different sections of the report, showing for each section how the code was implemented to achieve the results presented in the report.
