@@ -1,3 +1,6 @@
+# Reference
+ - Code was adapted from https://github.com/SongweiGe/double-descent-pytorch
+
 # double-descent-pytorch
 Implementation / replication of double descent curve with PyTorch on MNIST in <a href="https://www.pnas.org/content/116/32/15849.short">this paper</a> and specifically its <a href="https://arxiv.org/abs/1812.11118">ArXiv version</a>.
 
